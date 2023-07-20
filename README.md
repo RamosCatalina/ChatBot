@@ -4,8 +4,8 @@ I created a ChatBot that collects orders for a pharmacy delivery service. The ph
 
 OpenAI Model: gpt-3.5-turbo
 
-##libraries
+## libraries
 openai- os- dotenv-panel
 
-##Keywords
+## Keywords
 Pyhton- OpenAI- gpt-3.5- prompt engineering- LLM
